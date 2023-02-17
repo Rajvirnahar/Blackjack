@@ -33,9 +33,9 @@ When stand is hit, the dealer reveal's it's card. If the total of the dealer is 
 
 
 # Technologies used 
-HTML
-CSS
-JAVASCRIPT
+- HTML
+- CSS
+- JAVASCRIPT
 
 
 # Next Steps 
