@@ -3,9 +3,6 @@
 Blackjack is a casino game found in the 1700's which was also when it began to gain fame. This game consists of bonuses which are distributed when the player holds the ace of spades following the black jack, also known as, spades and clubs.
 
 
-# Blacjack game 
-
-*INSERT LINK 
 
 # Goal of the game
 
@@ -14,9 +11,9 @@ The player must beat the dealer while having a score greater than the dealer but
 
 # Value of cards 
 
-Joker, Queen, King (J, Q, K) = 10
-numbers 2 to 10 all count as their given number 
-Ace of any card type = 11
+- Joker, Queen, King (J, Q, K) = 10
+- numbers 2 to 10 all count as their given number 
+- Ace of any card type = 11
 
 # How it works (player's hand)
 <img width="1440" alt="Screen Shot 2023-02-16 at 10 03 42 PM" src="https://user-images.githubusercontent.com/61394755/219541360-9988fbc0-300e-47b7-9b3c-bd6f093f9538.png">
