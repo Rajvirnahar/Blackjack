@@ -27,6 +27,8 @@ It is always the player's turn to go first. They choose whether thyey'd like to 
 
 # The dealer's hand 
 
+<img width="1439" alt="Screen Shot 2023-02-16 at 10 04 59 PM" src="https://user-images.githubusercontent.com/61394755/219541647-b2e87779-18e7-48e1-b3cd-d7dce52d3f30.png">
+
 When stand is hit, the dealer reveal's it's card. If the total of the dealer is 17 or greater, it stand, if 16 or less, the dealer picks up another card. This process is ongoing until the dealer reaches a value of 17 or more. Then, whoever has the greater score will win (player or dealer), and if score is same, it is a tie, no one wins. 
 
 
