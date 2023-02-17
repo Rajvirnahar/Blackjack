@@ -19,7 +19,7 @@ numbers 2 to 10 all count as their given number
 Ace of any card type = 11
 
 # How it works (player's hand)
-/Users/rajvirnahar/GA/projects/blackjack/README screesnhot/Screen Shot 2023-02-16 at 10.03.42 PM.png
+
 
 It is always the player's turn to go first. They choose whether thyey'd like to hit or stand. There is no limit to how much the player would like to hit, however, if score goes above 21, dealer wins. 
 
